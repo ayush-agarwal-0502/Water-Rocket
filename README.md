@@ -20,11 +20,11 @@ Cycle pump has been used for the pressurising mechanism . The launcher has been 
 
 ![image](https://user-images.githubusercontent.com/86561124/205033764-2751909e-0cad-481b-9a7b-cd9dd1af3cf4.png)
 
-* Since the ideal shape of rocket nose must be parabolic ( and not pointed as a common man might believe ) , we used plastic balls to improve the aerodynamicity of the nose . 
-* Glider wings have been attached so that we could achieve more range during the flight of the rocket , as the wings would avoid an immidiate fall and keep producing lift . However , care has been taken to avoid excessive size , so as to avoid drag . 
-* Since the glider model would twist and go unstable during the flight , hence a stabiliser wing is needed to stabilise the turning effect . 
-* Since there was a curve in the bottle we were using , which would cause vortices and slow down the rocket , hence ring has been added made using newspapers and tape . 
-* Some tape was added along with the hot glue gun glue , to add supportive strength to the structure . 
+* Since the ideal shape of rocket nose must be __parabolic__ ( and not pointed as a common man might believe ) , we used plastic balls to improve the aerodynamicity of the nose . 
+* __Glider wings__ have been attached so that we could achieve more range during the flight of the rocket , as the wings would avoid an immidiate fall and keep producing lift . However , care has been taken to avoid excessive size , so as to avoid drag . 
+* Since the glider model would twist and go unstable during the flight , hence a __stabiliser wing__ is needed to stabilise the turning effect . 
+* Since there was a curve in the bottle we were using , which would cause __vortices__ and slow down the rocket , hence ring has been added made using newspapers and tape . 
+* Some tape was added along with the hot glue gun glue , to add __supportive strength__ to the structure . 
 
 ## Miscellaneous 
 
