@@ -1,2 +1,6 @@
 # Water-Rocket
-Description of water rocket I built for NSSC Liftoff challenge , IIT Kgp 
+
+Name - Ayush Agarwal 
+Teammates - Raghavansh Singla , Amitesh Vatsa , Chitrank Agarwal , Sanyam Jha 
+Project Name - Water Rocket 
+
